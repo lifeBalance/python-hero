@@ -1,4 +1,4 @@
-def two_sum_b():
+def two_sum():
     """Return what the exercise asks for."""
     raise NotImplementedError
 
