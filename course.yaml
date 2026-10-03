@@ -1,7 +1,7 @@
 # Auto generated. Hand edits are fine, keep the schema.
 schema: 1
 id: b7b97402-cc15-4547-97d6-4713bb3a44a7
-title: Python Hero sample course (mine)
+title: Python Hero 🐍
 runtime:
   name: Python 3.14
   image: python:3.14-slim
@@ -13,7 +13,7 @@ runtime:
   test: [python3, -m, pytest, -q]
 sections:
   - title: Warm-up
-    problems: [two-sum-b, contains-duplicate, hello-world]
+    problems: [hello-world, two-sum-b, contains-duplicate]
   - title: Prefix sums
     problems: [running-sum]
 upstream: https://github.com/lifeBalance/python-hero

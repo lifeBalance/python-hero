@@ -1,6 +1,6 @@
 # Python sample course
 
-Three small array exercises, used to try out koudmankee while it is being built.
+Three small array exercises, used to try out mankee brain while it is being built.
 
 Each exercise gives you a statement, a starter file with the function signature, and a set of tests. Write the function, press Run to try it against the example, press Test to run every case.
 
