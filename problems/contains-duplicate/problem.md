@@ -1,5 +1,6 @@
 ---
 title: Contains Duplicate
+starter: problem.py
 difficulty: 2
 tags: []
 draft: false

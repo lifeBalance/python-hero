@@ -1,5 +1,6 @@
 ---
 title: Running Sum of 1d Array
+starter: problem.py
 difficulty: 2
 tags: []
 draft: false
