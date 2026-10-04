@@ -13,7 +13,7 @@ runtime:
   test: [python3, -m, pytest, -q]
 sections:
   - title: Warm-up
-    problems: [hello-world, two-sum-b, contains-duplicate]
+    problems: [hello-world, two-sum-b, contains-duplicate, foo]
   - title: Prefix sums
     problems: [running-sum]
 upstream: https://github.com/lifeBalance/python-hero
