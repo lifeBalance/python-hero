@@ -1,24 +1,14 @@
 ---
-title: Foo
+title: Hello world 2
+starter: problem.py
 difficulty: 1
 tags: []
-starter: problem.py
-draft: true
 ---
 
-# Foo
-
-What the student has to do, in a sentence or two. A task, not a lesson: what goes in, what comes
-out, and nothing about how.
+Write a program that returns the string `Hello, world!`.
 
 ## Examples
 
 ```
-call(input)  ->  output
+hello_world()  ->  Hello, world!
 ```
-
-Two or three, and make one of them the case people get wrong.
-
-## Constraints
-
-What is guaranteed about the input, and anything they may not use.

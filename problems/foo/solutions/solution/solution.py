@@ -1,6 +1,6 @@
 def hello_world():
     """Return what the exercise asks for."""
-    raise NotImplementedError
+    return "Hello, world!"
 
 
 if __name__ == "__main__":
