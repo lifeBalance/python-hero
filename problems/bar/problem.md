@@ -1,5 +1,5 @@
 ---
-title: bar
+title: Bar
 difficulty: 1
 tags: []
 starter: problem.py
