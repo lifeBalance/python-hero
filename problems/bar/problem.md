@@ -6,19 +6,10 @@ starter: problem.py
 draft: true
 ---
 
-# bar
-
-What the student has to do, in a sentence or two. A task, not a lesson: what goes in, what comes
-out, and nothing about how.
+Write a program that prints `Bar` to the console.
 
 ## Examples
 
 ```
-call(input)  ->  output
+bar()  ->  Bar
 ```
-
-Two or three, and make one of them the case people get wrong.
-
-## Constraints
-
-What is guaranteed about the input, and anything they may not use.
