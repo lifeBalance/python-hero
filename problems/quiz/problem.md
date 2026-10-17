@@ -3,6 +3,8 @@ title: Quiz
 difficulty: 1
 tags: []
 kind: quiz
+hints: false
+editorial: false
 ---
 
 Answer the questions.
