@@ -6,7 +6,7 @@
   one_of: [ls, cat, mv, echo]
   answer: ls
 
-- ask: What does `cd ..` do?
+- ask: What does the `cd ..` command do?
   one_of:
     - Goes up one folder
     - Goes to your home folder
