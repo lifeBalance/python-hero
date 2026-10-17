@@ -2,7 +2,6 @@
 title: Term
 difficulty: 1
 tags: []
-draft: true
 kind: terminal
 ---
 
