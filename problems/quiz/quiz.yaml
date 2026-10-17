@@ -1,0 +1,31 @@
+- ask: Which command shows the folder you are in?
+  one_of: [pwd, ls, cd, whoami]
+  answer: pwd
+
+- ask: Which command lists the files in the current folder?
+  one_of: [ls, cat, mv, echo]
+  answer: ls
+
+- ask: What does `cd ..` do?
+  one_of:
+    - Goes up one folder
+    - Goes to your home folder
+    - Deletes the current folder
+    - Lists the parent folder
+  answer: Goes up one folder
+
+- ask: Which of these make a new folder?
+  any_of: [mkdir, touch, "mkdir -p", cp]
+  answer: [mkdir, "mkdir -p"]
+
+- ask: Which of these print something to the terminal?
+  any_of: [echo, cat, mkdir, printf]
+  answer: [echo, cat, printf]
+
+- ask: What does `rm -r logs` remove?
+  one_of:
+    - The logs folder and everything in it
+    - Only the files directly inside logs
+    - Only empty folders named logs
+    - Nothing, it needs -f
+  answer: The logs folder and everything in it
