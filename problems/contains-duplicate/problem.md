@@ -1,11 +1,3 @@
----
-title: Contains Duplicate
-starter: problem.py
-difficulty: 2
-tags: []
-draft: false
----
-
 Given a list of integers `nums`, return `True` if any value appears at least twice, and `False` if every element is distinct.
 
 ## Examples

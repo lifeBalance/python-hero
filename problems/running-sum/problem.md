@@ -1,11 +1,3 @@
----
-title: Running Sum of 1d Array
-starter: problem.py
-difficulty: 2
-tags: []
-draft: false
----
-
 Given a list of integers `nums`, return a list where the element at index `i` is the sum of `nums[0]` through `nums[i]`.
 
 ## Examples
