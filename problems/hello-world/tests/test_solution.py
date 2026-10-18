@@ -1,4 +1,4 @@
-from starter import hello_world
+from problem import hello_world
 
 
 def test_greets(capsys):

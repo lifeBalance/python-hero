@@ -1,4 +1,4 @@
-from starter import two_sum
+from problem import two_sum
 
 
 def check(want, *args):

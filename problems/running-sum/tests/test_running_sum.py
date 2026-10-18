@@ -1,4 +1,4 @@
-from starter import running_sum
+from problem import running_sum
 
 
 def test_example():

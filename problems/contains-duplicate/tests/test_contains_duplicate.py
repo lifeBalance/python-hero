@@ -1,4 +1,4 @@
-from starter import contains_duplicate
+from problem import contains_duplicate
 
 
 def test_has_duplicate():
